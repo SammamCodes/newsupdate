@@ -1,0 +1,163 @@
+[
+    {
+      "id": 3,
+      "adventure_title": "Coastal Kayaking Adventure",
+      "image": "https://images.pexels.com/photos/28408411/pexels-photo-28408411.jpeg", 
+      "category_name": "Kayaking",
+      "short_description": "Paddle through breathtaking coastal waters with serene views and abundant wildlife.",
+      "adventure_cost": "$200",
+      "booking_availability": "Available",
+      "location": "Maine Coastline, USA",
+      "duration": "3 days",
+      "adventure_level": "Low",
+      "included_items": [
+        "Kayak rental",
+        "Safety gear",
+        "Certified guide"
+      ],
+      "eco_friendly_features": [
+        "Reusable water bottles",
+        "Eco-friendly sunblock",
+        "Plastic-free meals"
+      ],
+      "max_group_size": 10,
+      "special_instructions": [
+        "Wear water-appropriate clothing",
+        "Be prepared for changing tides"
+      ],
+      "new_info": {
+        "recommended_age_range": "18-50",
+        "weather_conditions": "Mild to moderate temperatures, occasional rain",
+        "local_activities": ["Wildlife watching", "Scenic hiking"]
+      }
+    },
+    {
+      "id": 4,
+      "adventure_title": "Desert Expedition Challenge",
+      "image": "https://images.pexels.com/photos/931881/pexels-photo-931881.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", 
+      "category_name": "Expedition",
+      "short_description": "Cross the vast desert landscapes while experiencing cultural highlights and unique terrains.",
+      "adventure_cost": "$800",
+      "booking_availability": "Available",
+      "location": "Sahara Desert, Morocco",
+      "duration": "8 days",
+      "adventure_level": "High",
+      "included_items": [
+        "Camel rides",
+        "Desert camping gear",
+        "Local meals"
+      ],
+      "eco_friendly_features": [
+        "Solar-powered camp lighting",
+        "Eco-friendly tents",
+        "Locally sourced food"
+      ],
+      "max_group_size": 6,
+      "special_instructions": [
+        "Bring sunscreen and protective clothing",
+        "Nights can be cold—pack layers"
+      ],
+      "new_info": {
+        "recommended_age_range": "25-55",
+        "weather_conditions": "Hot days, cold nights",
+        "local_activities": ["Cultural exploration", "Sandboarding"]
+      }
+    },
+    {
+      "id": 5,
+      "adventure_title": "Farm Stay Experience",
+      "image": "https://cdn.pixabay.com/photo/2018/08/14/07/06/mountain-3604825_960_720.jpg", 
+      "category_name": "Farm Stay",
+      "short_description": "Immerse yourself in sustainable farming, local cuisine, and tranquil rural settings.",
+      "adventure_cost": "$150",
+      "booking_availability":"Available",
+      "location": "Tuscany, Italy",
+      "duration": "4 days",
+      "adventure_level": "Low",
+      "included_items": [
+        "Farm tours",
+        "Hands-on workshops",
+        "Home-cooked meals"
+      ],
+      "eco_friendly_features": [
+        "Organic farming practices",
+        "Compostable utensils",
+        "Minimal waste policy"
+      ],
+      "max_group_size": 15,
+      "special_instructions": [
+        "Expect to get hands-on with farm activities",
+        "Comfortable, casual clothing recommended"
+      ],
+      "new_info": {
+        "recommended_age_range": "18-60",
+        "weather_conditions": "Mild weather, sunny",
+        "local_activities": ["Cooking classes", "Wine tasting"]
+      }
+    },
+    {
+      "id": 6,
+      "adventure_title": "Tropical Trekking Expedition",
+      "image": "https://cdn.pixabay.com/photo/2022/11/18/20/56/alpine-7600966_640.jpg", 
+      "category_name": "Trekking",
+      "short_description": "Explore dense tropical trails, discover exotic flora, and enjoy local culture.",
+      "adventure_cost": "$450",
+      "booking_availability": "Available",
+      "location": "Borneo, Malaysia",
+      "duration": "6 days",
+      "adventure_level": "Medium",
+      "included_items": [
+        "Professional trekking guide",
+        "Camping equipment",
+        "Meals and snacks"
+      ],
+      "eco_friendly_features": [
+        "Biodegradable trail markers",
+        "Eco-safe insect repellents",
+        "Zero-plastic policy"
+      ],
+      "max_group_size": 10,
+      "special_instructions": [
+        "Prepare for hot and humid weather",
+        "Bring sturdy footwear and insect protection"
+      ],
+      "new_info": {
+        "recommended_age_range": "18-50",
+        "weather_conditions": "Hot and humid, rain possible",
+        "local_activities": ["Cultural immersion", "Waterfall visits"]
+      }
+    },
+    {
+      "id": 7,
+      "adventure_title": "Wildlife Safari and Photography",
+    "image": "https://cdn.pixabay.com/photo/2014/03/04/15/10/elephants-279505_640.jpg", 
+      "category_name": "Safari",
+      "short_description": "Capture stunning wildlife moments in their natural habitats with guided photo safaris.",
+      "adventure_cost": "$600",
+      "booking_availability": "Available",
+      "location": "Serengeti National Park, Tanzania",
+      "duration": "5 days",
+      "adventure_level": "Medium",
+      "included_items": [
+        "Photography workshops",
+        "All-terrain safari vehicle",
+        "Luxury eco-lodging"
+      ],
+      "eco_friendly_features": [
+        "Solar-powered facilities",
+        "Eco-friendly transportation",
+        "Wildlife conservation fee"
+      ],
+      "max_group_size": 8,
+      "special_instructions": [
+        "Bring photography gear",
+        "Clothing suitable for hot days and cool nights"
+      ],
+      "new_info": {
+        "recommended_age_range": "20-60",
+        "weather_conditions": "Hot days, cool nights",
+        "local_activities": ["Wildlife tracking", "Photography workshops"]
+      }
+    }
+  ]
+  
